@@ -69,6 +69,6 @@ Tickets created by end users Karen and Ken are assigned to agents Jane and John 
 <img src="https://i.imgur.com/yg6oeQz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The open tickets are worked by agents Jane and john doe to provide resolution according to the clients individual needs and closed.
+The open tickets are worked by agents Jane and John doe to provide resolution according to the clients individual needs and closed.
 </p>
 <br />
